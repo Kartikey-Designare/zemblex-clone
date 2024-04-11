@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+
 import "./App.css";
 import Sidebar from "./Sections/Sidebar";
 import Hero from "./Sections/Hero";

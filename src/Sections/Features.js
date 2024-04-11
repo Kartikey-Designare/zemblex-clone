@@ -54,6 +54,7 @@ const Features = () => {
                 }}
               ></div>
               <img
+                alt="img1"
                 className="object-cover w-full h-full rounded-[25px]"
                 src="https://framerusercontent.com/images/ZlsvHVoe4Ij6ixuqwwajQzhtMc.jpg"
               />
@@ -102,6 +103,7 @@ const Features = () => {
                 }}
               ></div>
               <img
+                alt="img2"
                 className="object-cover w-full h-full rounded-[25px]"
                 src="https://framerusercontent.com/images/mMLA6wSV0rRcm92esyvsPw6ugxM.jpg"
               />

@@ -1,4 +1,4 @@
-import styles from "./styles.module.css";
+// import styles from "./styles.module.css";
 
 const CTA = () => {
   return (
@@ -19,6 +19,7 @@ const CTA = () => {
         </div>
         <div className="w-full h-full rounded-[25px] overflow-hidden basis-2/3">
           <img
+            alt="bricks"
             className="object-cover w-full h-full rounded-[25px]"
             src="https://media.istockphoto.com/id/1435155757/photo/pallet-of-concrete-cinder-blocks-grey-uniformed-brick-shapes-building-material-new-for-use-on.jpg?s=612x612&w=0&k=20&c=KbVZUrd3_WzwdWlfaglOAoqCp7enBGsvwJjQrbQnXYA="
           />
